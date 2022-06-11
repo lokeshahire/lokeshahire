@@ -3,10 +3,23 @@
 🌱 I’m currently learning Full Stack Development <br>
 💞️ I’m looking to collaborate on JavaScript, HTML, CSS, React  <br>
 📫 How to reach me iamlokeshahire@gmail.com <br>
+
+<h3 align="center">GitHub Analytics: </h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemantfw13&count_private=true&theme=algolia" alt="hemantfw13's GitHub stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshahire&langs_count=8&theme=algolia" alt="lokeshahire's GitHub stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshahire" alt="lokeshahire's GitHub stats" />
+
+</div>
+
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
-  <a  href="https://www.linkedin.com/in/hemant-ahire-71b33b19a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a  href="mailto: Hemantahire002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a  href="https://github.com/hemantfw13" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a  href="" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="mailto: iamlokeshahire@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a  href="https://github.com/lokeshahire" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
  
