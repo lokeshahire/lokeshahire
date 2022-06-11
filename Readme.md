@@ -6,7 +6,7 @@
 
 <h3 align="center">GitHub Analytics: </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantfw13&count_private=true&theme=algolia" alt="hemantfw13's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshahire&count_private=true&theme=algolia" alt="lokeshahire's GitHub stats" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshahire&langs_count=8&theme=algolia" alt="lokeshahire's GitHub stats" />
