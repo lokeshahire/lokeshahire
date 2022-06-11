@@ -1,5 +1,5 @@
-👋 Hi, I’m @lokeshahire
-👀 I’m interested in Web Development
-🌱 I’m currently learning Full Stack Development
-💞️ I’m looking to collaborate on JavaScript, HTML, CSS, React 
-📫 How to reach me imalokeshahire@gmail.com
+👋 Hi, I’m @lokeshahire <br>
+👀 I’m interested in Web Development <br>
+🌱 I’m currently learning Full Stack Development <br>
+💞️ I’m looking to collaborate on JavaScript, HTML, CSS, React  <br>
+📫 How to reach me imalokeshahire@gmail.com <br>
