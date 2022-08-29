@@ -16,6 +16,10 @@
 
 </div>
 
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=lokeshahire&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+</p>
+
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
   <a  href="" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
