@@ -5,6 +5,27 @@
 <h2 align="center">About me: 👨🏽‍💻</h2>
 <p align="center">I am MERN stack developer as a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a web developer. I'm passionate and ambitious about my work, and love to be on a team that questions possibilities. Apart from programming, I enjoy reading books and listening to music.</p>
 
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshahire&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshahire" /> </p>
+
+- 🌍 I'm based in **Nashik, Maharashtra**
+
+- 🌱 I’m currently learning **Full Stack Developement**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB , Redux , BootStrap , ChakraUI, & DSA**
+
+- 📫 How to reach me **iamlokeshahire@gmail.com**
+
+- 👨‍💻 All my projects are available at my [Portfolio](https://lokeshahire.github.io/)
+
+- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+
+<br/>
+
+
+
 <div align="center">
   <h3 align="left" border="0"> 🚀 My Tech Stack<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h3>
 <br>
