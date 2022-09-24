@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Lokesh Ahire</h1>
+<h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Lokesh Ahire</h1>
 <p align="center">
 <a align="center" href="https://github.com/lokeshahire/lokeshahire"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer." /></a>
 </p>
