@@ -64,7 +64,7 @@
 </td>
 <td width="25%" align="center">
 <span>Chakra UI</span><br><br>
-<img height="64px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true">
+<img height="64px" src="https://img.icons8.com/color/344/chakra-ui.png">
 </td>
 </tr>
 <tr valign="top">
