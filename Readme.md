@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB , Redux , BootStrap , ChakraUI, & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB , Redux  , ChakraUI, & DSA**
 
 - 📫 How to reach me **iamlokeshahire@gmail.com**
 
