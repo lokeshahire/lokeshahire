@@ -21,6 +21,20 @@
 
 - 👨‍💻 All my projects are available at my [Portfolio](https://lokeshahire.github.io/)
 
+- 💻 HackerRank Certificate [Profile](https://www.hackerrank.com/iamlokeshahire)
+     
+     - [Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/6b6dbcadaf90)
+     - [JavaScript (Basic)](https://www.hackerrank.com/certificates/iframe/3206e941f181)
+     - [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/iframe/b06e6f43ba2b)
+     - [CSS](https://www.hackerrank.com/certificates/iframe/a04bb3525a25)
+     - [Node (Basic)](https://www.hackerrank.com/certificates/iframe/92e193fa3894)
+     - [Node.js (Intermediate)](https://www.hackerrank.com/certificates/iframe/5e0adb657503)
+     - [React (Basic)](https://www.hackerrank.com/certificates/iframe/a8ad63ccd788)
+     - [Rest API (Intermediate)](https://www.hackerrank.com/certificates/iframe/962c43bcf070)
+     - [SQL (Basic)](https://www.hackerrank.com/certificates/iframe/209a014dc4a3)
+     - [SQL (Intermediate)](https://www.hackerrank.com/certificates/iframe/ae252ebb856f)
+
+     
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 -  J.Crew Clone Website **[Live](https://github.com/lokeshahire/toothsome-week-3235)**
