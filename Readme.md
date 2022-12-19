@@ -126,9 +126,9 @@
 <br/>
 <br/>
 
-<p>
+<!-- <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=lokeshahire&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
-</p>
+</p> -->
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
