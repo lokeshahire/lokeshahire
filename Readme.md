@@ -25,6 +25,7 @@
 - 💻 HackerRank Certificate [Profile](https://www.hackerrank.com/iamlokeshahire)
      
      - [Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/6b6dbcadaf90)
+     - [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/iframe/a290ead779f8)
      - [JavaScript (Basic)](https://www.hackerrank.com/certificates/iframe/3206e941f181)
      - [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/iframe/b06e6f43ba2b)
      - [CSS](https://www.hackerrank.com/certificates/iframe/a04bb3525a25)
