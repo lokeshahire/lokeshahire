@@ -23,7 +23,8 @@
 - 👨‍💻 All my projects are available at my [Portfolio](https://lokeshahire.github.io/)
 
 - 💻 HackerRank Certificate [Profile](https://www.hackerrank.com/iamlokeshahire)
-     
+
+     - [JavaScript_Essentials-1](https://www.credly.com/badges/86715ea9-af78-44a7-a4f9-b48b44963d75/public_url)
      - [Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/6b6dbcadaf90)
      - [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/iframe/a290ead779f8)
      - [JavaScript (Basic)](https://www.hackerrank.com/certificates/iframe/3206e941f181)
