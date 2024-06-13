@@ -22,9 +22,14 @@
 
 - 👨‍💻 All my projects are available at my [Portfolio](https://lokeshahire.github.io/)
 
-- 💻 HackerRank Certificate [Profile](https://www.hackerrank.com/iamlokeshahire)
-  
+- 💻 Certificates
+- 
      - [JavaScript Essentials 1 (CISCO)](https://drive.google.com/file/d/1d2qUJAKMIzVtua715HiJnzouj_M_gr_v/view?usp=sharing)
+     - [Full Stack Web Development (MASAI)](https://drive.google.com/file/d/1CYE9LmZ8oXizuwNZtpCDydzdHuLWmL_k/view?usp=sharing)
+
+- 💻 HackerRank Certificates [Profile](https://www.hackerrank.com/iamlokeshahire)
+  
+   
      - [Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/6b6dbcadaf90)
      - [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/iframe/a290ead779f8)
      - [JavaScript (Basic)](https://www.hackerrank.com/certificates/iframe/3206e941f181)
