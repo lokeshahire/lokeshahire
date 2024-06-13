@@ -24,7 +24,7 @@
 
 - 💻 HackerRank Certificate [Profile](https://www.hackerrank.com/iamlokeshahire)
   
-     - [JavaScript_Essentials-1](https://www.credly.com/badges/86715ea9-af78-44a7-a4f9-b48b44963d75/public_url)
+     - [JavaScript Essentials 1 (CISCO)](https://drive.google.com/file/d/1d2qUJAKMIzVtua715HiJnzouj_M_gr_v/view?usp=sharing)
      - [Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/6b6dbcadaf90)
      - [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/iframe/a290ead779f8)
      - [JavaScript (Basic)](https://www.hackerrank.com/certificates/iframe/3206e941f181)
@@ -46,7 +46,7 @@
 -  Clockify Me Clone **[Live](https://github.com/lokeshahire/abrasive-trade-5771)**
 
 <br/>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="86715ea9-af78-44a7-a4f9-b48b44963d75" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshahire" alt="lokeshahire"/></a> </p> -->
 <div><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshahire&row=2&column=7&margin-w=15&margin-h=15" alt="lokeshahire"/></a> </div>
 
