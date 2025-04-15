@@ -26,6 +26,8 @@
 
      - [Full Stack Web Development (MASAI)](https://drive.google.com/file/d/1CYE9LmZ8oXizuwNZtpCDydzdHuLWmL_k/view?usp=sharing)
      - [JavaScript Essentials 1 (CISCO)](https://drive.google.com/file/d/1d2qUJAKMIzVtua715HiJnzouj_M_gr_v/view?usp=sharing)
+     - [Python Essentials 1 (CISCO)](https://drive.google.com/file/d/1pyht7s9DkAzbSlPbBMvZY9JIBnD1okfR/view?usp=sharing)
+     - [Python Essentials 2 (CISCO)](https://drive.google.com/file/d/1wjkq7NIf0pDQ3cEsTGZcuiWdhpIQUVSm/view?usp=sharing)
     
 
 - 🏅 HackerRank Certificates [Profile](https://www.hackerrank.com/iamlokeshahire)
