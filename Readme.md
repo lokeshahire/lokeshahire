@@ -28,6 +28,7 @@
      - [JavaScript Essentials 1 (CISCO)](https://drive.google.com/file/d/1d2qUJAKMIzVtua715HiJnzouj_M_gr_v/view?usp=sharing)
      - [Python Essentials 1 (CISCO)](https://drive.google.com/file/d/1pyht7s9DkAzbSlPbBMvZY9JIBnD1okfR/view?usp=sharing)
      - [Python Essentials 2 (CISCO)](https://drive.google.com/file/d/1wjkq7NIf0pDQ3cEsTGZcuiWdhpIQUVSm/view?usp=sharing)
+     - [MS Excel (SimpliLearn SkillUp)](https://certificates.simplicdn.net/share/8215194_85610951745055423186.pdf)
     
 
 - 🏅 HackerRank Certificates [Profile](https://www.hackerrank.com/iamlokeshahire)
